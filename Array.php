@@ -32,7 +32,7 @@ echo "<hr>";
 
 //array assosiatif
 $artikel = [
-    "judul" => "Belajar pemrograman Javascript",
+    "judul" => "Belajar pemrograman PHP",
     "penulis" => "Khalid Ibrahim",
     "view" => 1990
 ];
